@@ -1,0 +1,656 @@
+#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz"
+
+# ################################ DORYFORIKA ###########################################
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2000px-2018_Animal_Planet_logo.svg.png" group-title="WORLD DOCUMENTS", ANIMAL PLANET
+http://136.243.92.93:8080/animal/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2000px-2018_Animal_Planet_logo.svg.png" group-title="WORLD DOCUMENTS", ANIMAL PLANET
+http://136.243.92.93:2305/animal/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="WORLD DOCUMENTS", BBC EARTH
+http://136.243.92.93:8080/bbcearth/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="WORLD DOCUMENTS", BBC EARTH
+http://136.243.92.93:2305/bbcearth/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="WORLD DOCUMENTS", DISCOVERY
+http://136.243.92.93:8080/discovery/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="WORLD DOCUMENTS", DISCOVERY
+http://136.243.92.93:2305/discovery/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tornosnews.gr/files/logo_exlploring_greece_tv_618011261.png" group-title="WORLD DOCUMENTS", EXPLORING GREECE
+https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w506097299.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="WORLD DOCUMENTS", FINE LIVING
+http://136.243.92.93:2305/fineliving/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="WORLD DOCUMENTS", FOOD NETWORK
+http://136.243.92.93:2305/food/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/GR/grd-channel/normal.png" group-title="WORLD DOCUMENTS", GR Discovery CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="WORLD DOCUMENTS", HISTORY
+http://136.243.92.93:8080/history/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="WORLD DOCUMENTS", HISTORY
+http://136.243.92.93:2305/history/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/63/24/2d/63242d3b61f92fae785b80ad9a32ea0b.jpg" group-title="WORLD DOCUMENTS", NAT GEO
+http://136.243.92.93:8080/natgeo/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/63/24/2d/63242d3b61f92fae785b80ad9a32ea0b.jpg" group-title="WORLD DOCUMENTS", NAT GEO
+http://136.243.92.93:2305/natgeo/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="WORLD DOCUMENTS", NAT GEO WILD
+http://136.243.92.93:8080/natgeowild/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="WORLD DOCUMENTS", NAT GEO WILD
+http://136.243.92.93:2305/natgeowild/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="WORLD DOCUMENTS", NAUTICAL
+http://136.243.92.93:8080/nautical/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="WORLD DOCUMENTS", NAUTICAL
+http://136.243.92.93:2305/nautical/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realtree.com/sites/default/files/content/previews/outdoorchannellogo.gif" group-title="WORLD DOCUMENTS", OUTDOOR
+http://136.243.92.93:8080/outdoor/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realtree.com/sites/default/files/content/previews/outdoorchannellogo.gif" group-title="WORLD DOCUMENTS", OUTDOOR
+http://136.243.92.93:2305/outdoor/mpegts
+
+#EXTINF:-1 tvg-id="5dc2c444bac1f70009ca756e" tvg-logo="https://images.pluto.tv/channels/5dc2c444bac1f70009ca756e/colorLogoPNG.png" group-title="WORLD DOCUMENTS", TRAVEL
+http://136.243.92.93:8080/travel/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/474x/a3/06/c5/a306c5275e7eb4986fc5591742b6300c.jpg" group-title="WORLD DOCUMENTS", UP GREEK TOURISM
+https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1762021010.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="WORLD DOCUMENTS", VIASAT EXPLORE
+http://136.243.92.93:8080/viasatexplorer/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="WORLD DOCUMENTS", VIASAT EXPLORE
+http://136.243.92.93:2305/viasatexplorer/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="WORLD DOCUMENTS", VIASAT HISTORY
+http://136.243.92.93:8080/viasathistory/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="WORLD DOCUMENTS", VIASAT HISTORY
+http://136.243.92.93:2305/viasathistory/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="WORLD DOCUMENTS", VIASAT NATURE
+http://136.243.92.93:8080/viasatnature/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="WORLD DOCUMENTS", VIASAT NATURE
+http://136.243.92.93:2305/viasatnature/mpegts
+
+#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="WORLD DOCUMENTS", XPLORE GREEK
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1550358905/LogoSquare_200x200.jpg" group-title="WORLD DOCUMENTS", 1DOC: BETTER NATURE
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/chunklist_w211293600.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png" group-title="WORLD DOCUMENTS", 1DOC: LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+# ################################ DORYFORIKA PAIDIKA  ###########################################
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="KIDS", BOOMERANG
+http://136.243.92.93:8080/boomerang/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="KIDS", BOOMERANG
+http://136.243.92.93:2305/boomerang/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
+http://136.243.92.93:8080/disney/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
+http://136.243.92.93:2305/disney/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg/revision/latest?cb=20130129190107" group-title="KIDS", DISNEY JR
+http://136.243.92.93:2305/disneyjr/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="KIDS", DISNEY XD
+http://136.243.92.93:8080/disneyxd/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="KIDS", DISNEY XD
+http://136.243.92.93:2305/disneyxd/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="KIDS", KIDS TV GR
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/bUzVNaUZc6E/maxresdefault.jpg" group-title="KIDS", NICKELODEON GR
+http://31.177.62.174:8002/play/s60
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", SMILE
+http://31.177.62.174:8002/play/s58
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", SMILE GR
+https://s1.cystream.net/live/smile/playlist.m3u8
+
+
+# ################################ DORYFORIKA SPORTS  ###########################################
+
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 1
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22252.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 1
+http://mvu03.wanicelife.com:8880/SWFAF143279/RT65F6TR/31222
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 1
+http://hd.magiptvserver.com:8080/live/emrahizmir/NlTTtBOpv3/52858.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 2
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22253.ts
+
+#EXTINF:-1 tvg-id="novaSports.2.gr" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 2
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31221.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 3
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22254.ts
+
+#EXTINF:-1 tvg-id="novasports3.gr" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 3
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31220.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 4
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22255.ts
+
+#EXTINF:-1 tvg-id="novasports4.gr" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 4
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31219.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 5
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22256.ts
+
+#EXTINF:-1 tvg-id="novasports5hd.gr" tvg-logo="https://st2.depositphotos.com/5142301/11030/v/950/depositphotos_110300252-stock-illustration-n-letter-run-logo-design.jpg" group-title="GREEK SPORTS", NOVA SPORTS 5
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31218.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 1
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22241.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.1hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 1
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31214.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 1
+http://hd.magiptvserver.com:8080/live/emrahizmir/NlTTtBOpv3/52837.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 1
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52425.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 2
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22242.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.2hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 2
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31213.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 3
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22243.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.3hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 3
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31212.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 4
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22244.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.4hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 4
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31211.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 4
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52426.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 5
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22245.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.5hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 5
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31210.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 6
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22246.ts
+
+#EXTINF:-1 tvg-id="cosmote.sport.6hd.gr" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 6
+http://mvu03.wanicelife.com:8880/live/SWFAF143279/RT65F6TR/31209.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 7
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22247.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg" group-title="GREEK SPORTS", COSMOTE SPORT 8
+http://tv.kingreshare.eu:7711//live/FilhQuiLO/nKYvFcuuAU/22248.ts
+
+
+# ################################ WEV CINEMA ###########################################
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="WORLD CINEMA", 34100 TV GR
+https://s1.cystream.net/live/34100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ertalex.gr/logo2.png" group-title="WORLD CINEMA", ERTA LEX TV GR
+https://vdo.alphaserver.gr:3824/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="WORLD CINEMA", GALAXY GR
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v7BE0t2.png" group-title="WORLD CINEMA", GREEK CINEMA GR
+https://vdo.alphaserver.gr:3613/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YhwbcwE.png" group-title="WORLD CINEMA", GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="WORLD CINEMA", GROOVY CINEMA GR
+http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w157287859.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Dj7YFhH.png" group-title="WORLD CINEMA", LIVE TV GR
+https://vod.streams.ovh:3829/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8coUyPX.png" group-title="WORLD CINEMA", MAROUSSIOTIKA TV GR
+http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/1911px-NOVA_logo.svg.png" group-title="WORLD CINEMA", NOVA CINEMA 1
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52422.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" group-title="WORLD CINEMA", NETMAX TV GR
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-Vz1IwPitM2I/W0fLhsnD0CI/AAAAAAAALyQ/jwEKtFlSPFIXcl6g_rC5E80bau38a_PwQCLcBGAs/s1600/netv-toronto.jpg" group-title="WORLD CINEMA", NETV TORONTCOSMOTE CINEMA GR
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://www.ote-cr.cz/cs/o-spolecnosti/files/Logo_OTE.jpg" group-title="WORLD CINEMA", COSMOTE CINEMA 1
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52419.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://www.ote-cr.cz/cs/o-spolecnosti/files/Logo_OTE.jpg" group-title="WORLD CINEMA", COSMOTE CINEMA 2
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52420.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://www.ote-cr.cz/cs/o-spolecnosti/files/Logo_OTE.jpg" group-title="WORLD CINEMA", COSMOTE CINEMA 3
+http://eurotv.vip:80//live/pretttiiivddcff/frffgfrffc300/52421.ts
+
+
+# ################################ PANELLADIKA ###########################################
+
+
+
+#EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="GREEK PANELLADIKA", ALFA SPORT CYPRUS
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="alpha.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/55/Alpha_cyprus_logo_Image.jpg" group-title="GREEK PANELLADIKA", ALPHA CYPRUS
+http://136.243.92.93:8080/alphacy/mpegts
+
+#EXTINF:-1 tvg-id="capital.cy" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.6435-9/cp0/e15/q65/s180x540/208595270_3034864673413108_5041659619884811023_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=dELoVxbm6AUAX_k_Vt2&_nc_ht=scontent.fath2-1.fna&oh=7e063b6a2c82425837eca02ce97f9eb4&oe=61484D17" group-title="GREEK PANELLADIKA", CAPITAL CYPRUS
+http://136.243.92.93:8080/capitalcy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="GREEK PANELLADIKA", CITY CHANNEL CYPRUS
+https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://digitaltv.com.cy/images/logo.png" group-title="GREEK PANELLADIKA", DIGITAL TV CYPRUS
+https://l8.cloudskep.com/digital/dtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="capitalcy" tvg-logo="https://3.bp.blogspot.com/-HXYh3RTJu14/XA0LqpPW2tI/AAAAAAACSgo/FOMXk4iuK-Asg-ppJV4uo7fAIi7lRuajACLcBGAs/s1600/omega-tv-cyprus.jpg" group-title="GREEK PANELLADIKA", OMEGA CYPRUS
+http://136.243.92.93:8080/omega/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/60/Pluscyelo.jpeg/200px-Pluscyelo.jpeg" group-title="GREEK PANELLADIKA", PLUS CYPRUS
+http://136.243.92.93:8080/pluscy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1024px-Logo_RIK_1_2017.svg.png" group-title="GREEK PANELLADIKA", RIK 1 CYPRUS
+http://136.243.92.93:8080/rik1/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/400px-Logo_RIK_2_2017.svg.png" group-title="GREEK PANELLADIKA", RIK 2 CYPRUS
+http://136.243.92.93:8080/rik2/mpegts
+
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png" group-title="GREEK PANELLADIKA", RIK SAT CYPRUS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" group-title="GREEK PANELLADIKA", SEEN TV CYPRUS
+http://stream.seen.cy/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Sigma TV" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", SIGMA CYPRUS
+https://sl2.sigmatv.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", SIGMA CYPRUS
+http://136.243.92.93:8080/sigmacy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="GREEK PANELLADIKA", VOULI TV CYPRUS
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://34100tv.com/wp-content/uploads/2020/10/34100-tv-logo-main.png" group-title="GREEK PANELLADIKA", 34100 TV GR
+https://s1.cystream.net/live/34100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="action24.gr" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" group-title="GREEK PANELLADIKA", ACTION 24
+http://basic-iptvesun.com:8080//live/carter/GUV1bMq2VK/1451.ts
+
+#EXTINF:-1 tvg-id="action24.gr" tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" group-title="GREEK PANELLADIKA", ACTION 24
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52403.ts
+
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", ALPHA
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", ALPHA
+http://31.177.62.174:8003/play/s63
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", ALPHA
+http://136.243.92.93:8080/alphatv/mpegts
+
+#EXTINF:-1 tvg-id="ant1.gr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", ANT1
+http://31.177.62.174:8003/play/s61
+
+#EXTINF:-1 tvg-id="ant1eu.ant1europe.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA", ANT1 EUROPE
+http://5.135.92.136:42692/out/u/atsykmssuyrsyhth.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", ANT1
+http://136.243.92.93:8080/ant1/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bci24news.com/wp-content/uploads/2020/10/bci24logo.png" group-title="GREEK PANELLADIKA", BCI 24 NEWS
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS
+http://136.243.92.93:8080/ertsport/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/400px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT SPORTS WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
+
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/89/Ertworld2020.png/200px-Ertworld2020.png" group-title="GREEK PANELLADIKA", ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/89/Ertworld2020.png/200px-Ertworld2020.png" group-title="GREEK PANELLADIKA", ERT WORLD  WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT1
+http://136.243.92.93:8080/ert1/mpegts
+
+#EXTINF:-1 tvg-id="ΕΡΤ1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT1 WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT2
+http://136.243.92.93:8080/ert2/mpegts
+
+#EXTINF:-1 tvg-id="ΕΡΤ2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT2 WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept3.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA", ERT3
+http://136.243.92.93:8080/ert3/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", EURONEWS
+http://136.243.92.93:8080/euronews/mpegts
+
+#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREEK PANELLADIKA", EXPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREEK PANELLADIKA", GREEK VOICE
+http://wpso.com:1936/hls/wzra.m3u8
+
+#EXTINF:-1 tvg-id="kontrachannel.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png" group-title="GREEK PANELLADIKA", KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png" group-title="GREEK PANELLADIKA", KONTRA
+http://31.177.62.174:8001/play/s64
+
+#EXTINF:-1 tvg-id="makedoniatv.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", MAKEDONIA
+http://basic-iptvesun.com:8080//live/carter/GUV1bMq2VK/3085.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", MAKEDONIA
+http://eurotv.vip:80//live/pretttiiivddcff/Frffgfrffc300/52402.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", MEGA
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", MEGA BUP
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", MEGA
+http://136.243.92.93:8080/megatv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/2tB3wqn.png" group-title="GREEK PANELLADIKA", MONTREAL GREEK TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://liveq.tv/liveq.tv/img/ca-Net_TV_Toronto.jpg" group-title="GREEK PANELLADIKA", NETV TORONTO HD
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", ONE
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+
+#EXTINF:-1 tvg-id="openbeyond.gr" tvg-logo="https://cdn.mikrofwno.gr/wp-content/uploads/2018/09/898f27_2.png" group-title="GREEK PANELLADIKA", OPEN
+https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.mikrofwno.gr/wp-content/uploads/2018/09/898f27_2.png" group-title="GREEK PANELLADIKA", OPEN
+http://31.177.62.174:8003/play/s62
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.mikrofwno.gr/wp-content/uploads/2018/09/898f27_2.png" group-title="GREEK PANELLADIKA", OPEN
+http://136.243.92.93:8080/opentv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rise.gr/assets/website/img/rise_tv_logo.png" group-title="GREEK PANELLADIKA", RISE TV
+http://31.177.62.174:8002/play/s59
+
+#EXTINF:-1 tvg-id="Skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", SKAI
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", SKAI
+http://136.243.92.93:8080/skaitv/mpegts
+
+#EXTINF:-1 tvg-id="Star" tvg-logo="https://www.star.gr/tv/Content/Media/logo_v2.png" group-title="GREEK PANELLADIKA", STAR
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo_v2.png" group-title="GREEK PANELLADIKA", STAR
+http://136.243.92.93:8080/startv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/TLC_HD_Europa.png" group-title="GREEK PANELLADIKA", TLC GREECE
+http://136.243.92.93:8080/tlc/mpegts
+
+#EXTINF:-1 tvg-id="Vouli.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/1/17/Parliament-Television_of_Greece.png" group-title="GREEK PANELLADIKA", VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+
+# ################################ PERIFEREIAKA ###########################################
+
+
+
+#EXTINF:-1 tvg-id="4Ε" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="GREEK PERIFEREIAKA", 4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AigaioTV.gr" tvg-logo="http://i.imgur.com/jYdwvZB.png" group-title="GREEK PERIFEREIAKA", AIGAIO TV
+https://tna5.bozztv.com/aigaiotv1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aYgRkkB.jpg" group-title="GREEK PERIFEREIAKA", AKRITAS TV
+http://akritastv.flashmediacast.com:1935/akritastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aYgRkkB.jpg" group-title="GREEK PERIFEREIAKA", AKRITAS TV BUP
+https://5dcab9aed5331.streamlock.net/akritastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALERT.gr" tvg-logo="https://www.alerttv.com.gr/uc/logo.png" group-title="GREEK PERIFEREIAKA", ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/39l3uRU.jpg" group-title="GREEK PERIFEREIAKA", ALFA DRAMAS
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/H3xtBV3.jpg" group-title="GREEK PERIFEREIAKA", ALITHEIA TV
+https://vdo.alphaserver.gr:3989/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SWPpbJd.jpg" group-title="GREEK PERIFEREIAKA", ALPHA CHANNEL
+https://bit.ly/2J8Fw8p
+
+#EXTINF:-1 tvg-id="ΑΡΤ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZW2RwYvlgXPxrQYq3rPem7xJjpZ5yzKfjw&usqp=CAU" group-title="GREEK PERIFEREIAKA", ART
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="GREEK PERIFEREIAKA", ART TV
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.18169-9/s180x540/21616290_1811396895544916_2401100592566163449_n.png?_nc_cat=101&ccb=1-3&_nc_sid=85a577&_nc_ohc=xya72E_QMisAX_sgV8J&_nc_ht=scontent.fath2-1.fna&oh=11d7f140af31c1899863118dde83b981&oe=61273408" group-title="GREEK PERIFEREIAKA", ASTRA TV
+https://tna5.bozztv.com/astratv/index.m3u8
+
+#EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="GREEK PERIFEREIAKA", ATTICA TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="GREEK PERIFEREIAKA", ATTICA TV BUP
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZZCDm3R.jpg" group-title="GREEK PERIFEREIAKA", AVANTI TV
+https://www.youtube.com/watch?v=IZehSGMWxIo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.inkefalonia.gr/media/k2/items/cache/071b165a2d2a4eef27d7fc765395e496_XL.jpg" group-title="GREEK PERIFEREIAKA", AXELWOS TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ena.gr" tvg-logo="https://i.imgur.com/T4yeVjJ.png" group-title="GREEK PERIFEREIAKA", CENTER TV
+https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" group-title="GREEK PERIFEREIAKA", CHANNEL 9
+https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png" group-title="GREEK PERIFEREIAKA", CHANNEL 9 BUP
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/w0UIKte.png" group-title="GREEK PERIFEREIAKA", CORFU TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MaAys0D.png" group-title="GREEK PERIFEREIAKA", DIAVATA TV HD
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0klufvz.jpg" group-title="GREEK PERIFEREIAKA", DIKTYO 1
+http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiktyoTV.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png" group-title="GREEK PERIFEREIAKA", DIKTYO TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ASNgEZI.jpg" group-title="GREEK PERIFEREIAKA", E TV
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XQyysct.jpg" group-title="GREEK PERIFEREIAKA", EGNATIA TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nxoHQqz.png" group-title="GREEK PERIFEREIAKA", EKKLHSIA TV HD
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ELLAS TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+
+#EXTINF:-1 tvg-id="ena.gr" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" group-title="GREEK PERIFEREIAKA", ENA CHANNEL
+http://176.9.123.140:1935/1c/stream/master.m3u8
+
+#EXTINF:-1 tvg-id="IPIROSTV.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" group-title="GREEK PERIFEREIAKA", EPIRUS TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" group-title="GREEK PERIFEREIAKA", EPSILON TV
+https://neotv.streamings.gr/live/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV
+https://s1.cystream.net/live/faros1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="GREEK PERIFEREIAKA", HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" group-title="GREEK PERIFEREIAKA", HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ΗΛΕΚΤΡΑ" tvg-logo="https://i.imgur.com/SI8Ny3X.png" group-title="GREEK PERIFEREIAKA", HLEKTRA TV
+http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+
+#EXTINF:-1 tvg-id="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" group-title="GREEK PERIFEREIAKA", IONIAN CHANNEL
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="GREEK PERIFEREIAKA", IRIDA TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="GREEK PERIFEREIAKA", KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-id="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png" group-title="GREEK PERIFEREIAKA", KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", KRITH TV
+http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1230587515.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" group-title="GREEK PERIFEREIAKA", LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TabBmOc.png" group-title="GREEK PERIFEREIAKA", MARON TV
+https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="GREEK PERIFEREIAKA", MESOGEIOS TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/nwInqes.png" group-title="GREEK PERIFEREIAKA", MESSINIA WEB TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="GREEK PERIFEREIAKA", NEA TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="GREEK PERIFEREIAKA", NOTIOI TV
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tZnziRp.jpg" group-title="GREEK PERIFEREIAKA", NS TV
+http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9YFieqB.jpg" group-title="GREEK PERIFEREIAKA", PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREEK PERIFEREIAKA", PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png" group-title="GREEK PERIFEREIAKA", R CHANNEL
+https://video.connect4.gr/live/tvrodopi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" group-title="GREEK PERIFEREIAKA", SAMIAKI TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="GREEK PERIFEREIAKA", START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png" group-title="GREEK PERIFEREIAKA", SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png" group-title="GREEK PERIFEREIAKA", THRAKI NET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" group-title="GREEK PERIFEREIAKA", TOP CHANNEL
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/nAzfWx5.png" group-title="GREEK PERIFEREIAKA", TRT TV
+http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" group-title="GREEK PERIFEREIAKA", TV 100
+https://live.fm100.gr/hls/tv100/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="GREEK PERIFEREIAKA", TV CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="GREEK PERIFEREIAKA", TV CRETA BUP
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/2hU849d.jpg" group-title="GREEK PERIFEREIAKA", TV DIPSO
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png" group-title="GREEK PERIFEREIAKA", TV EPILOGES
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ΚΡΉΤΗ TV
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
